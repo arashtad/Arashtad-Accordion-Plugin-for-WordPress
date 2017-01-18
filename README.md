@@ -1,4 +1,5 @@
 # Arashtad-Accordion-Plugin-for-WordPress
+WordPress Plugin to Create Responsive Accordion Widgets on WordPress Websites, Approved by WordPress.org
 
 === Arashtad Accordion Plugin ===
 
